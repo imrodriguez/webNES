@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/webnes/static/js/main.1cedb2d2.chunk.js",
+    "main.js.map": "/webnes/static/js/main.1cedb2d2.chunk.js.map",
+    "runtime-main.js": "/webnes/static/js/runtime-main.84155c24.js",
+    "runtime-main.js.map": "/webnes/static/js/runtime-main.84155c24.js.map",
+    "static/js/2.315a022d.chunk.js": "/webnes/static/js/2.315a022d.chunk.js",
+    "static/js/2.315a022d.chunk.js.map": "/webnes/static/js/2.315a022d.chunk.js.map",
+    "index.html": "/webnes/index.html",
+    "precache-manifest.3c3e417f4aa39f5c88d8ab782de315ef.js": "/webnes/precache-manifest.3c3e417f4aa39f5c88d8ab782de315ef.js",
+    "service-worker.js": "/webnes/service-worker.js",
+    "static/js/2.315a022d.chunk.js.LICENSE.txt": "/webnes/static/js/2.315a022d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84155c24.js",
+    "static/js/2.315a022d.chunk.js",
+    "static/js/main.1cedb2d2.chunk.js"
+  ]
+}
