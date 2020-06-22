@@ -19,7 +19,7 @@ const App = (props) => {
   const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop })
 
   const loadRom = (rom) => {
-    setRom(rom)
+    setRom(window.location.href + rom)
   }
 
   useEffect(() => {
