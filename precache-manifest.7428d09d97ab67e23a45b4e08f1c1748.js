@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7eec85ed1992aa64e0c77f994b40d7bd",
+    "revision": "eaaa85cf8885e422d50d6bc578610cd5",
     "url": "/webNES/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webNES/static/js/2.027fee51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14328b290a3cf4d6a0c5",
-    "url": "/webNES/static/js/main.ce14a663.chunk.js"
+    "revision": "4a08cb538738471d582c",
+    "url": "/webNES/static/js/main.f1afc9ea.chunk.js"
   },
   {
     "revision": "8cb34496adc923602fae",
