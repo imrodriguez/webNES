@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eaaa85cf8885e422d50d6bc578610cd5",
+    "revision": "e9a190b88440623def811fdc5384cfaf",
     "url": "/webNES/index.html"
   },
   {
