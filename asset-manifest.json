@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.796fe5a1.chunk.js",
-    "main.js.map": "/static/js/main.796fe5a1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a599d381.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a599d381.js.map",
-    "static/js/2.4f4266c2.chunk.js": "/static/js/2.4f4266c2.chunk.js",
-    "static/js/2.4f4266c2.chunk.js.map": "/static/js/2.4f4266c2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f7056780d38d7b861d67e55d83c5b363.js": "/precache-manifest.f7056780d38d7b861d67e55d83c5b363.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.4f4266c2.chunk.js.LICENSE.txt": "/static/js/2.4f4266c2.chunk.js.LICENSE.txt"
+    "main.js": "/webNES/static/js/main.ce14a663.chunk.js",
+    "main.js.map": "/webNES/static/js/main.ce14a663.chunk.js.map",
+    "runtime-main.js": "/webNES/static/js/runtime-main.69498da0.js",
+    "runtime-main.js.map": "/webNES/static/js/runtime-main.69498da0.js.map",
+    "static/js/2.027fee51.chunk.js": "/webNES/static/js/2.027fee51.chunk.js",
+    "static/js/2.027fee51.chunk.js.map": "/webNES/static/js/2.027fee51.chunk.js.map",
+    "index.html": "/webNES/index.html",
+    "precache-manifest.7c3baa093af7c7a54e1869ab9fe58ff2.js": "/webNES/precache-manifest.7c3baa093af7c7a54e1869ab9fe58ff2.js",
+    "service-worker.js": "/webNES/service-worker.js",
+    "static/js/2.027fee51.chunk.js.LICENSE.txt": "/webNES/static/js/2.027fee51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a599d381.js",
-    "static/js/2.4f4266c2.chunk.js",
-    "static/js/main.796fe5a1.chunk.js"
+    "static/js/runtime-main.69498da0.js",
+    "static/js/2.027fee51.chunk.js",
+    "static/js/main.ce14a663.chunk.js"
   ]
 }
